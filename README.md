@@ -62,17 +62,10 @@ streamlit run app.py
 
 - **`job_vectors.joblib`**: Serialized TF-IDF vectors of job descriptions, likely used for efficient retrieval and computation.
 
-- **`README.md`**: The markdown file you are currently viewing, serving as the documentation and overview of the project.
+- **`README.md`**: The markdown file you are currently viewing serves as the project's documentation and overview.
 
 - **`requirements.txt`**: A file listing all Python dependencies required to run the project, typically used with `pip install -r requirements.txt` to install dependencies.
 
-## Contributors
-- @officialamit558
-
 ## License
 - This project is licensed under the MIT License. See the LICENSE file for details.
-- 
 This `README.md` file now incorporates all the provided details about your job recommendation system project, including its features, requirements, usage instructions, how it works, folder structure, contributors section, and license information. Adjust the placeholders (`YourGitHubHandle`, `LICENSE`, etc.) with your actual GitHub handle and license details as applicable. This format ensures clarity and completeness for users and potential contributors visiting your GitHub repository.
-
-
-
